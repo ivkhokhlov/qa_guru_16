@@ -1,2 +1,4 @@
 venv
 .idea
+.pytest_cache
+homework/__pycache__
